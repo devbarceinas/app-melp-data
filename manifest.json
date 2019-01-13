@@ -1,0 +1,6 @@
+{
+  "name": "app-melp-data",
+  "short_name": "app-melp-data",
+  "start_url": "/",
+  "display": "standalone"
+}
